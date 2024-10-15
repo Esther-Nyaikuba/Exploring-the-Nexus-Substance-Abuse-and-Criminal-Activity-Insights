@@ -50,6 +50,9 @@ D. Data Visualization: Develop Excel - based data visualizations, Ensure that re
 - **Drug type and conviction:**  For most drug types, the number of incidents where individuals were not convicted exceeds those where they were convicted.
 - **Income and Incidents:**  Low income individuals are involved in the highest number of incidents followed by middle-income and high income individuals.
 
+Snapshot of the Dashboard (Microsoft Excel)
+![Dashboard](https://github.com/user-attachments/assets/a5cd3ad8-86af-469e-a2aa-8139d583c210)
+
 
 ## Recommendations
 - **Crime Prevention:** Given the high incidents of theft, consider launching public awareness campaigns and community policy initiatives specifically targeting theft prevention.
